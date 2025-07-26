@@ -5,10 +5,10 @@ import sys
 # --- 配置 ---
 
 # 1. 源文件夹名称
-SOURCE_DIRECTORY = "output_stage3_final"
+SOURCE_DIRECTORY = "content"
 
 # 2. 最终合并后的文件名
-MERGED_FILENAME = "容器资源管理-最终合并稿.md"
+MERGED_FILENAME = "final_crap.md"
 
 # 3. [关键] 定义一级章节的结构。
 #    这是脚本用来生成一级标题的依据。
