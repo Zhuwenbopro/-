@@ -138,7 +138,7 @@ def main():
     主执行函数，串联整个工作流。
     """
     input_file = "cleaned_output.md"
-    output_dir = "output_stage3_final"  # 使用新目录
+    output_dir = "output_stage4_final"  # 使用新目录
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
